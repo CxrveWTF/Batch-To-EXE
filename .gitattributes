@@ -1,0 +1,8 @@
+# Ensure consistent line endings for batch scripts
+*.bat text eol=crlf
+
+# Treat executable files as binary
+*.exe binary
+
+# Ensure consistent line endings for temporary files
+*.sed text eol=crlf

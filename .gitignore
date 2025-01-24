@@ -1,0 +1,11 @@
+# Ignore generated executable files
+*.exe
+
+# Ignore temporary files
+*.tmp
+*.sed
+
+# Ignore logs and backup files
+*.log
+*.bak
+*.old
