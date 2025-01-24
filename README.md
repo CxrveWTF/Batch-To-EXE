@@ -23,7 +23,7 @@ This script allows you to easily convert batch files (`.bat`) into executable fi
 ## Notes
 
 - The script creates a temporary `.sed` file to handle IExpress configuration, which is deleted after execution.
-- Based on an original script from [CxrveWTF](https://github.com/CxrveWTF).
+- Based on an original script from [CxrveWTF](https://github.com/CxrveWTF/Batch-To-EXE/blob/main/battoexe.bat).
 
 ## Requirements
 
